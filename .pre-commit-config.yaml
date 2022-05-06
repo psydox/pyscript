@@ -19,4 +19,4 @@ repos:
         additional_dependencies:
         - 'eslint'
         - 'typescript'
-        - 'eslint-plugin'
+        - '@typescript-eslint/eslint-plugin'
